@@ -1,2 +1,2 @@
-#Leo Szalkowski
-######This is my portfolio
+# Leo Szalkowski
+###### This is my portfolio
